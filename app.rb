@@ -20,6 +20,5 @@ module FormsLab
 
       erb :show
     end
-
   end
 end
